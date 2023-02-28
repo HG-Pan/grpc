@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=proto/basic/basic.proto
+cargo:rerun-if-changed=proto/hello.proto
+cargo:rerun-if-changed=proto/goodbye.proto
+cargo:rerun-if-changed=proto/
+cargo:rerun-if-changed=proto/basic/basic.proto
+cargo:rerun-if-changed=proto/hello.proto
+cargo:rerun-if-changed=proto/goodbye.proto

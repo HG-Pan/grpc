@@ -1,0 +1,10 @@
+/usr/local/codeData/code/rust/dome/tonic-demo/target/debug/deps/httparse-a46efa32277860a4.rmeta: /Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/lib.rs /Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/iter.rs /Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/macros.rs /Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/simd/mod.rs /Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/simd/sse42.rs /Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/simd/avx2.rs
+
+/usr/local/codeData/code/rust/dome/tonic-demo/target/debug/deps/httparse-a46efa32277860a4.d: /Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/lib.rs /Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/iter.rs /Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/macros.rs /Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/simd/mod.rs /Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/simd/sse42.rs /Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/simd/avx2.rs
+
+/Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/lib.rs:
+/Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/iter.rs:
+/Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/macros.rs:
+/Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/simd/mod.rs:
+/Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/simd/sse42.rs:
+/Users/pan/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.8.0/src/simd/avx2.rs:

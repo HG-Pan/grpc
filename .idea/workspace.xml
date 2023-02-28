@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1690599-84e7-4628-b441-610d310734be" name="Changes" comment="grpc rust">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f1690599-84e7-4628-b441-610d310734be" name="Changes" comment="grpc rust" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677550532360</updated>
       <workItem from="1677550533852" duration="6118000" />
-      <workItem from="1677571805680" duration="1443000" />
+      <workItem from="1677571805680" duration="1732000" />
     </task>
     <task id="LOCAL-00001" summary="desc">
       <created>1677555966618</created>

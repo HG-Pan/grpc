@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "basic/basic.proto";
+
+package hello;
+
+service Hello {
+  rpc Hello(HelloRequest) returns (HelloResponse) {}
+}
+
+message HelloRequest {
+  string name = 1;
+}
+
+message HelloResponse {
+  string data = 1;
+  basic.BaseResponse message = 2;
+}
