@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1690599-84e7-4628-b441-610d310734be" name="Changes" comment="grpc rust">
-      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/Cargo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/build.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/proto/basic/basic.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/proto/goodbye.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/proto/hello.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/src/bin/client.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/src/bin/server.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/src/lib.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/src/proto-gen/basic.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/src/proto-gen/goodbye.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/src/proto-gen/hello.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +36,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/grpc-tonic-rust" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HttpClientSelectedEnvironments">
     <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" environment="test" />
@@ -89,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677550532360</updated>
       <workItem from="1677550533852" duration="6118000" />
-      <workItem from="1677571805680" duration="896000" />
+      <workItem from="1677571805680" duration="1443000" />
     </task>
     <task id="LOCAL-00001" summary="desc">
       <created>1677555966618</created>
@@ -126,6 +115,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/grpc_consumer_java" />
       <path value="$PROJECT_DIR$/grpc_provider_java" />
+      <path value="$PROJECT_DIR$/grpc-tonic-rust" />
     </ignored-roots>
     <MESSAGE value="desc" />
     <MESSAGE value="grpc rust" />
