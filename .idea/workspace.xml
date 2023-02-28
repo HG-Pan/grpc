@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1690599-84e7-4628-b441-610d310734be" name="Changes" comment="desc">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f1690599-84e7-4628-b441-610d310734be" name="Changes" comment="grpc rust">
+      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/build.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/proto/basic/basic.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/proto/goodbye.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/proto/hello.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/src/bin/client.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/src/bin/server.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/src/lib.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/src/proto-gen/basic.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/src/proto-gen/goodbye.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc-tonic-rust/src/proto-gen/hello.rs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677550532360</updated>
       <workItem from="1677550533852" duration="6118000" />
-      <workItem from="1677571805680" duration="497000" />
+      <workItem from="1677571805680" duration="896000" />
     </task>
     <task id="LOCAL-00001" summary="desc">
       <created>1677555966618</created>
@@ -87,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677555966618</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="grpc rust">
+      <created>1677572871752</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677572871752</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +128,7 @@
       <path value="$PROJECT_DIR$/grpc_provider_java" />
     </ignored-roots>
     <MESSAGE value="desc" />
-    <option name="LAST_COMMIT_MESSAGE" value="desc" />
+    <MESSAGE value="grpc rust" />
+    <option name="LAST_COMMIT_MESSAGE" value="grpc rust" />
   </component>
 </project>
