@@ -1,0 +1,60 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '2.7.10-SNAPSHOT'
+    id 'com.google.protobuf' version '0.8.19'
+    id 'io.spring.dependency-management' version '1.0.15.RELEASE'
+}
+
+
+protobuf {
+    protoc {
+        artifact = 'com.google.protobuf:protoc:3.18.1'
+    }
+    plugins {
+        grpc {
+            artifact = 'io.grpc:protoc-gen-grpc-java:1.49.1'
+        }
+    }
+    generateProtoTasks {
+        all()*.plugins {
+            grpc {}
+        }
+    }
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    compileOnly 'org.projectlombok:lombok'
+    annotationProcessor 'org.projectlombok:lombok'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+    //grpc
+    implementation 'io.grpc:grpc-netty-shaded:1.49.1'
+    implementation 'io.grpc:grpc-protobuf:1.49.1'
+    implementation 'io.grpc:grpc-stub:1.49.1'
+    implementation 'com.google.protobuf:protobuf-java:3.19.6'
+
+}
+
+
+group = 'com.pan'
+version = '0.0.1'
+sourceCompatibility = '11'
+
+configurations {
+    compileOnly {
+        extendsFrom annotationProcessor
+    }
+}
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven { url 'https://repo.spring.io/milestone' }
+    maven { url 'https://repo.spring.io/snapshot' }
+}
+
+
+tasks.named('test') {
+    useJUnitPlatform()
+}
